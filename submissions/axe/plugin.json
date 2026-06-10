@@ -1,0 +1,8 @@
+{
+  "name": "breakpoint",
+  "description": "Tennis-themed break coach for Axe",
+  "version": "0.1.0",
+  "commands": {
+    "breakpoint": "Manage work rallies and break points"
+  }
+}
